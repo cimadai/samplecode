@@ -1,0 +1,9 @@
+NsisInstallerSample1.nsi
+    すごく簡単なインストーラの例
+
+NsisInstallerSample2.nsi
+    自作のdllを呼び出すインストーラの例
+    dllのコードはnsisPluginSample
+
+NsisInstallerSample3.nsi
+    インストーラを自己解凍アーカイブとして使った例
